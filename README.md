@@ -50,3 +50,9 @@ If you are learning Rx and want to be shown through Carnac's codebase then this 
 [Part 2 - Refactoring the MessageProvider class](http://jake.ginnivan.net/blog/carnac-improvements/part-2/)  
 [Part 3 - Introducing the MessageController class](http://jake.ginnivan.net/blog/carnac-improvements/part-3/)  
 
+https://github.com/Code52/carnac/blob/ac8188c012650eb9eda0fba4233527d9c4933fb7/src/Carnac.Logic/Models/Message.cs#L132
+disable repeat aggregation
+
+https://github.com/Code52/carnac/blob/ac8188c012650eb9eda0fba4233527d9c4933fb7/src/Carnac.Logic/KeyProvider.cs#L63
+get settings
+
